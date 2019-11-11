@@ -20,8 +20,6 @@ import org.junit.jupiter.api.Test;
 import org.testfx.api.FxToolkit;
 import org.testfx.framework.junit5.ApplicationTest;
 
-import java.awt.*;
-
 public class MenuCommandTest extends ApplicationTest {
 
     @Override
